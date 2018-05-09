@@ -1,4 +1,5 @@
 # Cariverse.io
 
 Legal Resources
-cariverse-legal-resources/cariverse-legal-resoources.md
+
+https://github.com/johanlgreene/cariverse-legal-resources/blob/master/cariverse-legal-resoources.md
