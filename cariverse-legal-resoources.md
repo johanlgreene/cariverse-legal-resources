@@ -34,6 +34,9 @@ Commodity Futures Trading Commission-Proposed Interpretation of Retail Commodity
 https://drive.google.com/file/d/0BwnMvkp5r_rwNlg4YlBib0IxV3ZJYUxpTHJxbjhHUHhOczM0/view
 March 20th 2018
 
+Dividend-Paying Token
+https://nexo.io/assets/downloads/NEXO-Token-Terms.pdf
+
 # Extra Resources
 
 Resources for ICO Developers and Crypto Investors
