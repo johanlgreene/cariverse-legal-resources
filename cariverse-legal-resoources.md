@@ -30,6 +30,12 @@ Written Evidence Submitted by ConsenSys
 UK Digital Currencies Inquiry
 https://static1.squarespace.com/static/5a329be3d7bdce9ea2f3a738/t/5ae7191e6d2a739e98fae7dd/1525094686577/ConsenSys+Response+Digital+Currencies.pdf
 
+Commodity Futures Trading Commission-Proposed Interpretation of Retail Commodity Transactions Involving Virtual Currency
+https://drive.google.com/file/d/0BwnMvkp5r_rwNlg4YlBib0IxV3ZJYUxpTHJxbjhHUHhOczM0/view
+March 20th 2018
+
+# Extra Resources
+
 Resources for ICO Developers and Crypto Investors
 http://www.the-blockchain.com/2018/01/26/200-resources-crypto-investors-ico-developers/
 
