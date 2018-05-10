@@ -1,6 +1,15 @@
 # cariverse-legal-resources
 # Cariverse.io
 
+***Important. Please Read. ***
+Please note that since these data sources were originally published at different dates, the
+regulatory landscape may have changed. The information contained in this document may no longer be accurate.
+You should not rely on this document as legal advice and you should seek advice from
+your own counsel, who is familiar with the particular facts and circumstances of what you
+intend and can give you tailored advice. Although we reserve the right to
+modify or change this document from time to time. No attorney-client relationship or
+privilege is created, nor is this intended to be attorney advertising in any jurisdiction. 
+
 Legal documents related to ICO, token distribution, legal frameworks, digital currency policies, etc.
 
 # Token Law
@@ -12,17 +21,6 @@ Digital Asset Taxonomy
 https://thebrooklynproject.consensys.net/token-taxonomy
 Google Doc
 https://docs.google.com/document/d/1MI8ynS6TIsbfaPRmSco6roRuQdyf851Vfzq3EjZqmrk/edit?ts=5accc1e2#
-
-# Simple Agreement for Future Tokens (SAFT)
-
-SAFT introduction
-https://medium.com/cryptos-today/icos-and-the-saft-why-what-and-how-9dee58cc0059
-
-CARDOZO BLOCKCHAIN PROJECT
-Research Report #1
-NOT SO FAST—RISKS RELATED TO THE
-USE OF A “SAFT” FOR TOKEN SALES
-http://cardozo.yu.edu/sites/default/files/Cardozo%20Blockchain%20Project%20-%20Not%20So%20Fast%20-%20SAFT%20Response_final.pdf
 
 # Case Study
 
@@ -41,6 +39,19 @@ https://nexo.io/assets/downloads/NEXO-Token-Terms.pdf
 
 Resources for ICO Developers and Crypto Investors
 http://www.the-blockchain.com/2018/01/26/200-resources-crypto-investors-ico-developers/
+
+
+**Simple Agreement for Future Tokens (SAFT)
+
+SAFT introduction
+https://medium.com/cryptos-today/icos-and-the-saft-why-what-and-how-9dee58cc0059
+
+CARDOZO BLOCKCHAIN PROJECT
+Research Report #1
+NOT SO FAST—RISKS RELATED TO THE
+USE OF A “SAFT” FOR TOKEN SALES
+http://cardozo.yu.edu/sites/default/files/Cardozo%20Blockchain%20Project%20-%20Not%20So%20Fast%20-%20SAFT%20Response_final.pdf
+
 
 # Bonus for Startups
 Startup Company Law
