@@ -37,8 +37,8 @@ http://www.the-blockchain.com/2018/01/26/200-resources-crypto-investors-ico-deve
 
 ## Simple Agreement for Future Tokens (SAFT)
 
-SAFT WHitepaper
-https://saftproject.com/static/SAFT- Project-Whitepaper.pdf
+SAFT Whitepaper
+https://saftproject.com/static/SAFT-Project-Whitepaper.pdf
 
 SAFT introduction
 https://medium.com/cryptos-today/icos-and-the-saft-why-what-and-how-9dee58cc0059
