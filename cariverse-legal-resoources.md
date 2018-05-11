@@ -1,10 +1,10 @@
 # cariverse-legal-resources
 # Cariverse.io
+Legal documents related to ICO, token distribution, legal frameworks, digital currency policies, etc.
 
 ## Important. Please Read. 
 ### Please note that since these data sources were originally published at different dates, the regulatory landscape may have changed. The information contained in this document may no longer be accurate. You should not rely on this document as legal advice and you should seek advice from your own counsel, who is familiar with the particular facts and circumstances of what you intend and can give you tailored advice. Although we reserve the right to modify or change this document from time to time. No attorney-client relationship or privilege is created, nor is this intended to be attorney advertising in any jurisdiction. 
 
-Legal documents related to ICO, token distribution, legal frameworks, digital currency policies, etc.
 
 # Token Law
 
