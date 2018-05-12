@@ -53,6 +53,10 @@ http://www.the-blockchain.com/2018/01/26/200-resources-crypto-investors-ico-deve
 Jumpstart Our Business Startups Act
 https://www.gpo.gov/fdsys/pkg/BILLS-112hr3606enr/pdf/BILLS-112hr3606enr.pdf
 
+Dodd-Frank Wall Street Reform and Consumer Protection
+Act 
+http://legcounsel.house.gov/Comps/Dodd-Frank%20Wall%20Street%20Reform%20and%20Consumer%20Protection%20Act.pdf
+
 McGraw Hill Law Journal
 PRINCIPLES-BASED SECURITIES REGULATION IN THE
 WAKE OF THE GLOBAL FINANCIAL CRISIS
@@ -68,6 +72,9 @@ https://www.cftc.gov/sites/default/files/idc/groups/public/%40newsroom/documents
 
 Ponzimonium (CFTC Publisher)
 https://www.unl.edu/smmc/Ponzi%20scheme%20info%20booklet.pdf
+
+## Podcasts
+http://hwcdn.libsyn.com/p/8/f/4/8f4f92499b96e588/CFTC_Talks_EP033.mp3?c_id=19384545&expiration=1526155587&hwt=52261554a73de64ec2d3c2903c065fcf
 
 ## Simple Agreement for Future Tokens (SAFT)
 
