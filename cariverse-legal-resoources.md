@@ -38,6 +38,19 @@ https://www.dfs.ny.gov/legal/regulations/bitlicense_reg_framework.htm
 
 https://www.dfs.ny.gov/legal/regulations/adoptions/dfsp200t.pdf
 
+The Bank Secrecy Act, Cryptocurrencies,
+and New Tokens: What is Known and
+What Remains Ambiguous
+https://coincenter.org/files/2017-05/report-bsa-crypto-token-1-.pdf
+
+# General
+Advanced Financial Compliance Professionals
+AML Compliance
+http://files.acams.org/pdfs/2017/Cryptocurrency_Compliance_An_AML_Perspective_S.Scott.pdf
+
+BSA Anti Piracy Compliance
+http://www.bsa.org/anti-piracy/tools-page?tab=2
+ 
 # Securities Law
 	
 Rules and Regulations for the Securities and Exchange Commission and Major Securities Laws
