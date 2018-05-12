@@ -69,6 +69,9 @@ https://law.duke.edu/sites/default/files/lib/securities.pdf
 
 # Extra Resources
 
+IRS Crypto Tax Principles
+https://www.irs.gov/pub/irs-drop/n-14-21.pdf
+
 Resources for ICO Developers and Crypto Investors
 http://www.the-blockchain.com/2018/01/26/200-resources-crypto-investors-ico-developers/
 
