@@ -29,11 +29,45 @@ March 20th 2018
 Dividend-Paying Token
 https://nexo.io/assets/downloads/NEXO-Token-Terms.pdf
 
+# Securities Law
+	
+Rules and Regulations for the Securities and Exchange Commission and Major Securities Laws
+https://www.sec.gov/about/laws/secrulesregs.htm
+
+Electronic Code of Federal Regulations
+TITLE 17—Commodity and Securities Exchanges
+CHAPTER I—COMMODITY FUTURES TRADING COMMISSION
+https://www.ecfr.gov/cgi-bin/text-idx?SID=17a8a6fc0f7831b2df354235368ee5c0&mc=true&tpl=/ecfrbrowse/Title17/17cfrv1_02.tpl#0
+
+NYU School of Law
+www.law.nyu.edu/sites/default/files/.../Choi[1].SecuritiesRegulation.Spring2006.doc
+
+Bibliography - Duke School of Law
+https://law.duke.edu/sites/default/files/lib/securities.pdf
+
 # Extra Resources
 
 Resources for ICO Developers and Crypto Investors
 http://www.the-blockchain.com/2018/01/26/200-resources-crypto-investors-ico-developers/
 
+Jumpstart Our Business Startups Act
+https://www.gpo.gov/fdsys/pkg/BILLS-112hr3606enr/pdf/BILLS-112hr3606enr.pdf
+
+McGraw Hill Law Journal
+PRINCIPLES-BASED SECURITIES REGULATION IN THE
+WAKE OF THE GLOBAL FINANCIAL CRISIS
+http://lawjournal.mcgill.ca/userfiles/other/8421183-Ford.pdf
+
+What do Securities Lawyers do?
+A lot of a securities lawyer's practice revolves around counseling clients (which may be public or private corporations, brokerage houses or small businesses) who are trying to raise capital, or individual investors who believe that their investment was mishandled or that they were misled during the investment process. It also involves gathering the disclosure documents and ensuring their compliance with SEC regulations.
+https://www.law.georgetown.edu/careers/career-planning/practice-areas/securities.cfm
+
+Guidance Regarding Ethics Laws and Regulations Related to Employee
+Holdings and Transactions in Cryptocurrencies 
+https://www.cftc.gov/sites/default/files/idc/groups/public/%40newsroom/documents/file/bitcoin_grelrrehtc020418.pdf
+
+Ponzimonium (CFTC Publisher)
+https://www.unl.edu/smmc/Ponzi%20scheme%20info%20booklet.pdf
 
 ## Simple Agreement for Future Tokens (SAFT)
 
