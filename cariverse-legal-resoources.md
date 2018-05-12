@@ -29,6 +29,15 @@ March 20th 2018
 Dividend-Paying Token
 https://nexo.io/assets/downloads/NEXO-Token-Terms.pdf
 
+# Exchanges
+AML Bill
+https://www.congress.gov/115/bills/s1241/BILLS-115s1241is.pdf
+
+NY Dep. of Financial Services
+https://www.dfs.ny.gov/legal/regulations/bitlicense_reg_framework.htm 
+
+https://www.dfs.ny.gov/legal/regulations/adoptions/dfsp200t.pdf
+
 # Securities Law
 	
 Rules and Regulations for the Securities and Exchange Commission and Major Securities Laws
@@ -74,6 +83,8 @@ Ponzimonium (CFTC Publisher)
 https://www.unl.edu/smmc/Ponzi%20scheme%20info%20booklet.pdf
 
 ## Podcasts
+CFTC Talks EP033: Chamber of Digital Commerce
+Chamber of Digital Commerce’s President Perianne Boring, and General Counsel Amy Davine Kim
 http://hwcdn.libsyn.com/p/8/f/4/8f4f92499b96e588/CFTC_Talks_EP033.mp3?c_id=19384545&expiration=1526155587&hwt=52261554a73de64ec2d3c2903c065fcf
 
 ## Simple Agreement for Future Tokens (SAFT)
