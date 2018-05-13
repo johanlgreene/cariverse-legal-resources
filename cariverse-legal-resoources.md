@@ -16,6 +16,14 @@ https://thebrooklynproject.consensys.net/token-taxonomy
 Google Doc
 https://docs.google.com/document/d/1MI8ynS6TIsbfaPRmSco6roRuQdyf851Vfzq3EjZqmrk/edit?ts=5accc1e2#
 
+Chairman Jay Clayton's Testimony on Virtual Currencies: The Roles of the SEC and CFTC
+https://www.sec.gov/news/testimony/testimony-virtual-currencies-oversight-role-us-securities-and-exchange-commission
+
+### Token Distribution Law
+Report of Investigation Pursuant to Section 21(a) of the Securities Exchange Act of 1934:
+The DAO
+https://www.sec.gov/litigation/investreport/34-81207.pdf
+
 ## Case Study
 
 Written Evidence Submitted by ConsenSys
@@ -33,9 +41,12 @@ https://nexo.io/assets/downloads/NEXO-Token-Terms.pdf
 AML Bill
 https://www.congress.gov/115/bills/s1241/BILLS-115s1241is.pdf
 
-NY Dep. of Financial Services
+### NY Dep. of Financial Services
+Integrity Initiative Questionnaire
+https://ag.ny.gov/sites/default/files/virtual_markets_integrity_initiative_questionnaire.pdf
+BitLicesnse Framework
 https://www.dfs.ny.gov/legal/regulations/bitlicense_reg_framework.htm 
-
+Regulations
 https://www.dfs.ny.gov/legal/regulations/adoptions/dfsp200t.pdf
 
 The Bank Secrecy Act, Cryptocurrencies,
