@@ -33,8 +33,6 @@ https://www.sec.gov/news/public-statement/statement-clayton-2017-12-11
 Statement on Potentially Unlawful Online Platforms for Trading Digital Assets
 https://www.sec.gov/news/public-statement/enforcement-tm-statement-potentially-unlawful-online-platforms-trading
 
-SEC Sanctions Operator of Bitcoin-Related Stock Exchange for Registration Violations
-https://www.sec.gov/news/press-release/2014-273
 
 NASAA Reminds Investors to Approach Cryptocurrencies, Initial Coin Offerings and Other Cryptocurrency-Related Investment Products with Caution
 http://www.nasaa.org/44073/nasaa-reminds-investors-approach-cryptocurrencies-initial-coin-offerings-cryptocurrency-related-investment-products-caution/
@@ -55,6 +53,9 @@ https://nexo.io/assets/downloads/NEXO-Token-Terms.pdf
 # Exchanges
 AML Bill
 https://www.congress.gov/115/bills/s1241/BILLS-115s1241is.pdf
+
+SEC Sanctions Operator of Bitcoin-Related Stock Exchange for Registration Violations
+https://www.sec.gov/news/press-release/2014-273
 
 ### NY Dep. of Financial Services
 Integrity Initiative Questionnaire
