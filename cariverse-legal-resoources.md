@@ -74,6 +74,9 @@ http://files.acams.org/pdfs/2017/Cryptocurrency_Compliance_An_AML_Perspective_S.
 BSA Anti Piracy Compliance
 http://www.bsa.org/anti-piracy/tools-page?tab=2
  
+List of Licensed Alternative Trading Systems
+https://www.sec.gov/foia/docs/atslist.htm
+ 
 # Securities Law
 	
 Rules and Regulations for the Securities and Exchange Commission and Major Securities Laws
@@ -111,6 +114,7 @@ WAKE OF THE GLOBAL FINANCIAL CRISIS
 http://lawjournal.mcgill.ca/userfiles/other/8421183-Ford.pdf
 
 What do Securities Lawyers do?
+
 A lot of a securities lawyer's practice revolves around counseling clients (which may be public or private corporations, brokerage houses or small businesses) who are trying to raise capital, or individual investors who believe that their investment was mishandled or that they were misled during the investment process. It also involves gathering the disclosure documents and ensuring their compliance with SEC regulations.
 https://www.law.georgetown.edu/careers/career-planning/practice-areas/securities.cfm
 
