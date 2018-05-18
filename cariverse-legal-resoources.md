@@ -134,6 +134,10 @@ CFTC Talks EP033: Chamber of Digital Commerce
 Chamber of Digital Commerce’s President Perianne Boring, and General Counsel Amy Davine Kim
 http://hwcdn.libsyn.com/p/8/f/4/8f4f92499b96e588/CFTC_Talks_EP033.mp3?c_id=19384545&expiration=1526155587&hwt=52261554a73de64ec2d3c2903c065fcf
 
+## Bonus for Startups
+Startup Company Law
+http://www.startupcompanylawyer.com/
+
 **Not Compliant** Simple Agreement for Future Tokens (SAFT)
 
 SAFT Whitepaper
@@ -148,7 +152,3 @@ NOT SO FAST—RISKS RELATED TO THE
 USE OF A “SAFT” FOR TOKEN SALES
 http://cardozo.yu.edu/sites/default/files/Cardozo%20Blockchain%20Project%20-%20Not%20So%20Fast%20-%20SAFT%20Response_final.pdf
 
-
-## Bonus for Startups
-Startup Company Law
-http://www.startupcompanylawyer.com/
