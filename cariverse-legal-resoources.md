@@ -134,7 +134,7 @@ CFTC Talks EP033: Chamber of Digital Commerce
 Chamber of Digital Commerce’s President Perianne Boring, and General Counsel Amy Davine Kim
 http://hwcdn.libsyn.com/p/8/f/4/8f4f92499b96e588/CFTC_Talks_EP033.mp3?c_id=19384545&expiration=1526155587&hwt=52261554a73de64ec2d3c2903c065fcf
 
-## **Not Compliant** Simple Agreement for Future Tokens (SAFT)
+**Not Compliant** Simple Agreement for Future Tokens (SAFT)
 
 SAFT Whitepaper
 https://saftproject.com/static/SAFT-Project-Whitepaper.pdf
