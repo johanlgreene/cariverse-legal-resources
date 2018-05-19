@@ -1,5 +1,5 @@
 # cariverse-legal-resources
-# Cariverse.io Unicorn
+# Cariverse.io - Made in the Caribbean
 Legal documents related to ICO, token distribution, legal frameworks, digital currency policies, etc.
 
 ## Important. Please Read. 
