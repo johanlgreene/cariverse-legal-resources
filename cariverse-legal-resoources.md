@@ -138,7 +138,7 @@ http://hwcdn.libsyn.com/p/8/f/4/8f4f92499b96e588/CFTC_Talks_EP033.mp3?c_id=19384
 Startup Company Law
 http://www.startupcompanylawyer.com/
 
-**Not Compliant** Simple Agreement for Future Tokens (SAFT)
+**Not Compliant** Pleasse do not use - Simple Agreement for Future Tokens (SAFT)
 
 SAFT Whitepaper
 https://saftproject.com/static/SAFT-Project-Whitepaper.pdf
