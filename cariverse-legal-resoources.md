@@ -1,5 +1,5 @@
 # cariverse-legal-resources
-# Cariverse.io
+# Cariverse.io Unicorn
 Legal documents related to ICO, token distribution, legal frameworks, digital currency policies, etc.
 
 ## Important. Please Read. 
