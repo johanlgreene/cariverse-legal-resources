@@ -1,4 +1,5 @@
 # Cariverse.io
+Cariverse is a resource for all members of the Caribbean diaspora
 
 Programming Guides
 
